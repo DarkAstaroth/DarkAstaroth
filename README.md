@@ -4,4 +4,4 @@
 
 [![Manuel Ninahuanca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkAstaroth&show_icons=true)](https://github.com/DarkAstaroth)
 
->![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarlAstaroth)
+>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkAstaroth)
